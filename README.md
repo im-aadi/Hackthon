@@ -9,7 +9,7 @@ It allows farmers, distributors, retailers, and customers to interact seamlessly
 
 - 🔗 **Blockchain Transparency** – Track produce from farm to consumer.  
 - 📱 **QR Code Integration** – Each crop batch gets a scannable QR code.  
-- 👨‍🌾 **Role-Based Access** – Farmer, Distributor, Retailer, and Customer workflows.  
+- 👨‍🌾 **Role-Based Access** – Farmer, Distributor, Retailer, and Customer workflows. 
 - 📊 **Data Insights** – Firebase integration for storing activity logs.  
 - 🎨 **Responsive UI** – Clean and modern design with Indian theme support.  
 - ✅ **End-to-End Traceability** – Every step is verifiable on-chain. 
