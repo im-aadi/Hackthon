@@ -12,7 +12,7 @@ It allows farmers, distributors, retailers, and customers to interact seamlessly
 - 👨‍🌾 **Role-Based Access** – Farmer, Distributor, Retailer, and Customer workflows.  
 - 📊 **Data Insights** – Firebase integration for storing activity logs.  
 - 🎨 **Responsive UI** – Clean and modern design with Indian theme support.  
-- ✅ **End-to-End Traceability** – Every step is verifiable on-chain.  
+- ✅ **End-to-End Traceability** – Every step is verifiable on-chain. 
 
 ---
 
